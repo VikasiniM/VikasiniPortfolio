@@ -7,7 +7,7 @@ This repository hosts the source for my portfolio website, which highlights my s
 
 ## Live Website  
 Check out the live version here:  
-[vikasinim.github.io/Portfolio/](https://vikasinim.github.io/Portfolio/)
+[vikasinim.github.io/Portfolio/](https://vikasinim.github.io/VikasiniPortfolio/)
 
 ---
 
